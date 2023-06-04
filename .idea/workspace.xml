@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ecc5dc7d-916f-4d3d-9eb1-c4dc1f483a13" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/SimpleCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/SimpleCalculatorTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +54,39 @@
       <recent name="org.example" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SimpleCalculatorTest.twoPlusTwo">
+  <component name="RunManager" selected="JUnit.SimpleCalculatorTest.fourPlusFour">
+    <configuration name="SimpleCalculatorTest.fourPlusFour" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java-unit-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.SimpleCalculatorTest" />
+      <option name="METHOD_NAME" value="fourPlusFour" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleCalculatorTest.threePlusSeven" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java-unit-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.SimpleCalculatorTest" />
+      <option name="METHOD_NAME" value="threePlusSeven" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SimpleCalculatorTest.twoPlusTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java-unit-testing" />
       <extension name="coverage">
@@ -89,6 +121,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SimpleCalculatorTest.fourPlusFour" />
+        <item itemvalue="JUnit.SimpleCalculatorTest.threePlusSeven" />
         <item itemvalue="JUnit.SimpleCalculatorTest.twoPlusTwo" />
         <item itemvalue="JUnit.SimpleCalculatorTest.twoPlusTwoEqualFour" />
       </list>
